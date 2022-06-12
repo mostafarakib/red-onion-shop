@@ -1,0 +1,39 @@
+.header {
+  background: url("../../../public/images/bannerbackground.png");
+  height: 90vh;
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header__form {
+  display: flex;
+}
+#search-food {
+  border: none;
+  height: 100%;
+  border-radius: 25px;
+  width: 100%;
+  outline: none;
+  padding-left: 20px;
+}
+.btn-search {
+  margin-left: -20px;
+}
+
+#search-food::placeholder {
+  font-size: 12px;
+}
+
+@media only screen and (max-width: 688px) {
+  .header h2 {
+    padding: 25px;
+  }
+  .header__form {
+    margin: 25px;
+  }
+}

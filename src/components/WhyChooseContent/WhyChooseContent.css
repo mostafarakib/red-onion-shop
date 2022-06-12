@@ -1,0 +1,25 @@
+.choose-container {
+  transition: all 0.2s;
+  border-radius: 15px;
+}
+.choose-container:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.choose-img {
+  max-width: 100%;
+}
+
+.choose-content-container {
+  padding: 10px;
+}
+
+.choose-content-container span {
+  font-size: 14px;
+  color: #0000008c;
+}
+
+.choose-content-container h6 {
+  color: #e51a4b;
+}

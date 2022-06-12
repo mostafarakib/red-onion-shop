@@ -1,0 +1,39 @@
+.login-container {
+  height: 100vh;
+  background-image: url("/public/images/bannerbackground.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.login_box {
+  background: #fffefd;
+  border-radius: 5px;
+  width: 40%;
+}
+
+.btn-google {
+  background-color: #ea4335;
+}
+.btn-google:hover {
+  background-color: #c43629;
+}
+.btn-facebook {
+  background-color: #3b5998;
+}
+.btn-facebook:hover {
+  background-color: #2050b9c1;
+}
+.login_box-img {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.login__form input {
+  background: #f2f2f2;
+  outline: none;
+  border: none;
+  padding: 0 15px;
+  width: 100%;
+  height: 40px;
+}

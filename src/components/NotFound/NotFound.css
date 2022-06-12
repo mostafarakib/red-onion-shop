@@ -1,0 +1,25 @@
+.not_found {
+  height: 100vh;
+  background: url("/public/images/bannerbackground.png");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.not_found-container {
+  background: #eee;
+  width: 30%;
+  padding: 50px;
+  padding-top: 0;
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.not_found-container span {
+  font-size: 150px;
+  color: #f91944;
+}

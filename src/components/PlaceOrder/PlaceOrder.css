@@ -1,0 +1,25 @@
+.placeholder_box-2 {
+  background: #f2f2f2;
+  width: 20%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+.placeholder_box-2 span {
+  color: gray;
+  font-size: 13px;
+}
+.rider_img-1 {
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+}
+.rider_img-2 {
+  width: 50px;
+}
+.placeholder_box-2--inside {
+  background: #fff;
+  padding: 10px;
+  border-radius: 3px;
+  margin-top: 10px;
+}

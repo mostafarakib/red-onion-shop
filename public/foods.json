@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "img": "images/breakfast/breakfast1.png",
+    "category": "breakfast",
+    "name": "Bagel & cream cheese",
+    "price": 6.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 2,
+    "img": "images/breakfast/breakfast2.png",
+    "category": "breakfast",
+    "name": "Breakfast Sandwich",
+    "price": 9.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 3,
+    "img": "images/breakfast/breakfast3.png",
+    "category": "breakfast",
+    "name": "Baked Chicken",
+    "price": 10.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 4,
+    "img": "images/breakfast/breakfast4.png",
+    "category": "breakfast",
+    "name": "Eggs Benedict",
+    "price": 3.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 5,
+    "img": "images/breakfast/breakfast5.png",
+    "category": "breakfast",
+    "name": "Toast Croissant Fried Egg",
+    "price": 19.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 6,
+    "img": "images/breakfast/breakfast6.png",
+    "category": "breakfast",
+    "name": "Fried Egg with Toast Brunch",
+    "price": 4.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 7,
+    "img": "images/lunch/lunch1.png",
+    "category": "lunch",
+    "name": "Healthy Meal Plan",
+    "price": 23.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 8,
+    "img": "images/lunch/lunch2.png",
+    "category": "lunch",
+    "name": "Fried Chicken Bento",
+    "price": 9.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 9,
+    "img": "images/lunch/lunch3.png",
+    "category": "lunch",
+    "name": "Tarragon Rubbed Salmon",
+    "price": 6.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 10,
+    "img": "images/lunch/lunch4.png",
+    "category": "lunch",
+    "name": "Indian Lunch",
+    "price": 8.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 11,
+    "img": "images/lunch/lunch5.png",
+    "category": "lunch",
+    "name": "Beaf Steak",
+    "price": 16.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 12,
+    "img": "images/lunch/lunch6.png",
+    "category": "lunch",
+    "name": "Honey Glazed Soy Salmon",
+    "price": 7.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 13,
+    "img": "images/dinner/dinner1.png",
+    "category": "dinner",
+    "name": "Salmon with grape fruit & Lenthil",
+    "price": 9.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 14,
+    "img": "images/dinner/dinner2.png",
+    "category": "dinner",
+    "name": "Lemony Salmon Piccata",
+    "price": 10.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 15,
+    "img": "images/dinner/dinner3.png",
+    "category": "dinner",
+    "name": "Park Tenderloin with Quinoa Pilaf",
+    "price": 12.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 16,
+    "img": "images/dinner/dinner4.png",
+    "category": "dinner",
+    "name": "French Fries with Cheese",
+    "price": 7.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 17,
+    "img": "images/dinner/dinner5.png",
+    "category": "dinner",
+    "name": "Garlic Butter Baked Salmon",
+    "price": 6.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  },
+  {
+    "id": 18,
+    "img": "images/dinner/dinner6.png",
+    "category": "dinner",
+    "name": "Baked Chicken",
+    "price": 9.99,
+    "description": "This elegant Champagne jelly cheesecake was made for special occasions. A creamy filling is topped with sparkling jelly… and edible silver leaf if you're feeling a bit extra."
+  }
+]

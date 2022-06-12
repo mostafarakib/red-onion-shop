@@ -1,0 +1,35 @@
+.btn-food-varities {
+  padding: 0 20px;
+  font-weight: 500;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  border: none;
+  background: transparent;
+}
+.btn-food-varities:active,
+.btn-food-varities:hover,
+.btn-food-varities:focus {
+  color: #e51a4b;
+}
+.food-varities-container {
+  display: flex;
+  justify-content: center;
+}
+.btn-food-varities::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #e51a4b;
+  transition: width 0.2s ease-in;
+}
+
+.btn-food-varities:hover::after,
+.btn-food-varities:focus::after {
+  width: 100%;
+}
+.btn-checkout {
+  display: flex;
+  justify-content: center;
+}
